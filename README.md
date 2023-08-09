@@ -1,4 +1,5 @@
 # pokedexx
+Consumo de Api pokeapi.co
 
 ## Project setup
 ```
